@@ -8,4 +8,7 @@ Its a project that classifies three types of leaf statues
 3-Powdery
 
 ##video
-https://github.com/Lujean99/Plant-Project/assets/116796683/f9ef55e6-c8a7-4034-8464-03b1c2b19350
+
+
+https://github.com/Lujean99/Plant-Project/assets/116796683/0d693373-18aa-4f25-b3b3-2a8946c02f81
+
